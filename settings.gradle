@@ -1,0 +1,2 @@
+rootProject.name='CS Final Project'
+include ':app'
